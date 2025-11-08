@@ -68,3 +68,8 @@
 .nav-list a:hover {
   text-decoration: underline;
 }
+
+:root {
+  --font-color: #000000;
+  --background-color: #ffffff;
+}
