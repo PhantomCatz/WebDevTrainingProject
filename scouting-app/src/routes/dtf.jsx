@@ -1,5 +1,4 @@
 import React from 'react'
-import "../App.css"
 
 export default function Dtf() {
   return (
@@ -9,28 +8,28 @@ export default function Dtf() {
         <form>
           <label> Team 1 Number</label>
             <div>
-                <input type="number" className="numberInput"/>
+                <input type="number" className="input"/>
             </div>
           <label> Team 2 Number</label>
            <div>
-                <input type="number" className="numberInput" />
+                <input type="number" className="input" />
             </div>
           <label> Team 3 Number</label>
            <div>
-                <input type="number" className="numberInput"/>
+                <input type="number" className="input"/>
             </div>
         <h2> Alliance 2 </h2>
          <label> Team 1 Number</label>
             <div>
-              <input type="number" className="numberInput" />
+              <input type="number" className="input" />
             </div>
           <label> Team 2 Number</label>
            <div>
-                <input type="number" className="numberInput"/>
+                <input type="number" className="input"/>
           </div>
           <label> Team 3 Number</label>
            <div>
-                <input type="number" className="numberInput"/>
+                <input type="number" className="input"/>
           </div>
     </form> 
     <h3>
